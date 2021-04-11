@@ -11,6 +11,7 @@ $ go run main.go
 How to create a Dockerfile: Read the [article](https://medium.com/@monirz/golang-dependency-solution-with-go-module-and-docker-8967da6dd9f6):
 
 How to build: 
+
 docker build .
 
 Test API: 
