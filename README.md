@@ -7,3 +7,5 @@ How to use:
 ```
 $ go run main.go
 ```
+Test API: 
+curl -X POST -d @file.txt http://localhost:8080/books
